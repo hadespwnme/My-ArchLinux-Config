@@ -16,4 +16,3 @@ Server = http://mirror.papua.go.id/archlinux/$repo/os/$arch
 Server = http://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
 Server = http://mirror.gi.co.id/archlinux/$repo/os/$arch
 Server = http://kebo.pens.ac.id/archlinux/$repo/os/$arch
-/usr/lib/code/out/vs/code/electron-sandbox/workbench/workbench.html
